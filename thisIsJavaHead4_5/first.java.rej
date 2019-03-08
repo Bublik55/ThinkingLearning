@@ -1,0 +1,12 @@
+diff a/thisIsJavaHead4_5/first.java b/thisIsJavaHead4_5/first.java	(rejected hunks)
+@@ -0,0 +1,10 @@
++package thisIsJavaHead4_5;
++
++public class first {
++
++	public static void main(String[] args) {
++		// TODO Auto-generated method stub
++
++	}
++
++}
