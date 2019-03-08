@@ -19,17 +19,13 @@ class Rock{
 
 public class InitializationAndCompletion {
 	static int N = 10;
-
 	
 	public static void main(String[] args) {
 		
 		for(int i = 0;i<N;i++)
 			new Rock(i);
 		new Rock(Rock.count, "Hello hello, i can brake u to the dust");
-	
-	
-	
-	
+			
 	}
 
 }
